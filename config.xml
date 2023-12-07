@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>contactform</name>
+	<displayName><![CDATA[Contact Form]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[It\'s module thank\'s you can add contact form everywhere.]]></description>
+	<author><![CDATA[P&P]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
