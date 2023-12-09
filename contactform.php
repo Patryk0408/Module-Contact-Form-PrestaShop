@@ -28,7 +28,7 @@ if (!defined('_PS_VERSION_')) {
     exit;
 }
 
-class ContactForm extends Module
+class ContactForm extends Module 
 {
     protected $config_form = false;
 
